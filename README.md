@@ -6,10 +6,11 @@
 
 ---
 #### Gradient Descent 
-![1st img](https://github.com/user-attachments/assets/4a18d786-d136-4cf3-b9ef-607521a1b27c)
-![2nd img](https://github.com/user-attachments/assets/e7efdb4b-70e1-4876-8a35-7b7c195bd19e)
-![3rd img](https://github.com/user-attachments/assets/dcd97418-4fff-467f-a041-128cf40059b4)
-![4th img](https://github.com/user-attachments/assets/dfe04583-b485-4656-8999-97c58d6d4af7)
-![5th img](https://github.com/user-attachments/assets/28689cc4-ad46-4c59-92d1-b23b75868899)
-![6th img](https://github.com/user-attachments/assets/b3868279-7193-42b4-a1f7-f625d95e586e)
-![7th img](https://github.com/user-attachments/assets/7310a837-1471-4e17-ac3f-7cf85ee2f71e)
+![1st img](https://github.com/user-attachments/assets/45d72f88-488b-450d-97cd-18d55562710e)
+![2nd img](https://github.com/user-attachments/assets/95527616-ac64-46c1-b174-2d8fae61f941)
+![3rd img](https://github.com/user-attachments/assets/0516d25a-f9ca-4b68-9b9f-4eee8afb225c)
+![4th img](https://github.com/user-attachments/assets/2e69a9c4-97d2-4fac-9184-ec89cb0b3f8e)
+![5th img](https://github.com/user-attachments/assets/dc3f2db1-d57b-4930-bf8d-160d32bde073)
+![6th img](https://github.com/user-attachments/assets/5e0c34fb-5fe1-4625-aa7d-b819f3f1068e)
+![7th img](https://github.com/user-attachments/assets/2a5c6e82-8565-4cd6-a904-99f90df09f87)
+
